@@ -2,4 +2,4 @@
 First exercise: working with github
 
 
-And learn some shit here.
+And learn some nice things here.
